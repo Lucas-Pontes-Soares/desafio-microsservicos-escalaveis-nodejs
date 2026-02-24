@@ -1,0 +1,3 @@
+## Desafio Microsserviços Escaláveis
+
+Construção de dois microsserviços independentes, integração entre serviços com comunicação assíncrona utilizando RabbitMQ, modelagem e criação de tabelas no PostgreSQL, aplicação dos conceitos de consistência eventual e replicação de dados entre microsserviços, implementação de observabilidade com Grafana utilizando técnicas de logging estruturado e tracing distribuído e deploy com AWS Fargate através de infraestrutura como código com a ferramenta Pulumi.
